@@ -1,0 +1,12 @@
+body {
+    background-color: lightgreen;
+}
+h1 {
+    color: #ffffff;
+    font-size: 40px;
+}
+p {
+    color: white;
+    font: 30px;
+    border: 1px crimson dotted;
+}
